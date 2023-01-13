@@ -8,3 +8,8 @@
 - git push
 - git clone
 - git pull
+
+- git branch 
+- git checkout 
+- git merge
+- git 
